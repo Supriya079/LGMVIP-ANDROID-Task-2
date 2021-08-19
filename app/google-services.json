@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885191164491",
+    "project_id": "face-detection-9f493",
+    "storage_bucket": "face-detection-9f493.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885191164491:android:bf32b06f6f0c5183f843ce",
+        "android_client_info": {
+          "package_name": "com.supriya.detectface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885191164491-o63a1fb5i3e4hgub9jiofdkt3p6idl60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQQp0aXJvSrB6J2oux8CtCbIjdet4V44Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885191164491-o63a1fb5i3e4hgub9jiofdkt3p6idl60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
